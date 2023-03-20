@@ -1,6 +1,5 @@
 //Davydov Danil
 //the code was tested on samples from:
-//https://codeforces.com/group/v3tYbkCHj3/contest/427350/problem/A
 #include<iostream>
 
 using namespace std;
